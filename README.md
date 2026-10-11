@@ -51,7 +51,7 @@ Use lowercase file names without spaces.
 ## Deploy (free)
 
 - **GitHub Pages:** push this folder to a repo → Settings → Pages → Deploy from branch `main`, root
-- **Vercel / Netlify:** [text](https://nextgen-ai-website.vercel.app/)
+- **Vercel / Netlify:** [Nextgen AI APP](https://nextgen-ai-website.vercel.app/)
 ## Structure
 
 ```
