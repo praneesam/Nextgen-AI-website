@@ -281,7 +281,7 @@ const SITE = {
   team: [
     { name: "Buwaneka Fernando", id: "IT22250438", role: "Dual-System Reasoning Agent", email: "fernandobuwaneka@gmail.com", photo: "assets/img/team/fernando.jpeg" },
     { name: "Savindi Pamodya", id: "IT22132482", role: "Emotion Propagation Agent", email: "savindipamodya@gmail.com", photo: "assets/img/team/widyasekara.jpeg" },
-    { name: "Buddima Senadeera", id: "IT22640666", role: "Scarcity Optimization Agent", email: "Buddimasenadeera123@gmail.com", photo: "assets/img/team/senadeera.jpeg" },
+    { name: "Buddima Senadeera", id: "IT22640666", role: "Scarcity Optimization Agent", email: "buddimasenadeera123@gmail.com", photo: "assets/img/team/senadeera.jpeg" },
     { name: "Praneepa Samaraweera", id: "IT22544704", role: "Loss Framing Agent", email: "praneepasamaraweera1000@gmail.com", photo: "assets/img/team/samaraweera.jpeg" },
   ]
 };
