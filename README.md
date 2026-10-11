@@ -33,6 +33,13 @@ No install or build step. Either:
 - Group contact email and optional GitHub link
 - Milestone dates and status (`done` / `current` / `upcoming`)
 
+### Add team photos
+
+Copy each member's photo into `assets/img/team/` with these names:
+`fernando.jpg`, `widyasekara.jpg`, `senadeera.jpg`, `samaraweera.jpg`
+(square, at least 400 x 400 px). They appear on the About Us cards and on each
+component's owner badge. If a photo is missing, the initials are shown instead.
+
 ### Add a document or slide deck
 
 1. Copy the PDF into `assets/docs/` (or `assets/slides/`), e.g. `assets/docs/proposal-c1.pdf`
@@ -44,8 +51,7 @@ Use lowercase file names without spaces.
 ## Deploy (free)
 
 - **GitHub Pages:** push this folder to a repo → Settings → Pages → Deploy from branch `main`, root
-- **Vercel / Netlify:** import the repo or drag-and-drop the folder; framework = "Other", no build command
-
+- **Vercel / Netlify:** [text](https://nextgen-ai-website.vercel.app/)
 ## Structure
 
 ```
