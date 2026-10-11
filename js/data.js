@@ -19,7 +19,7 @@ const SITE = {
     faculty: "Faculty of Computing — BSc (Hons) in Information Technology, Specialising in Data Science",
     year: "2026",
     email: "nextgenresearch4@gmail.com", 
-    github: "https://github.com/praneesam/Nextgen-ai-website",
+    github: "https://github.com/praneesam/Nextgen-AI-website",
   },
 
   stats: [
@@ -172,7 +172,7 @@ const SITE = {
     },
     {
       id: "c3", num: "03", name: "Scarcity Optimization Agent", theory: "Scarcity Principle",
-      owner: "Senadeera K.D.B.S.", ownerId: "IT22640666", // EDIT — confirm
+      owner: "Buddima Senadeera", ownerId: "IT22640666", // EDIT — confirm
       color: "c3",
       summary: "Decides whether scarcity suits a product, writes limited-stock, time-bound or exclusivity messaging, and calibrates intensity to keep it believable.",
       objective: "To develop an AI agent that strategically incorporates scarcity elements into marketing content to increase perceived urgency while maintaining credibility and trust.",
