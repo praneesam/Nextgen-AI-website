@@ -9,11 +9,11 @@
 Final-year research project · BSc (Hons) in Information Technology, Specialising in Data Science<br>
 Faculty of Computing · Sri Lanka Institute of Information Technology (SLIIT) · 2026
 
-[![Live site](https://img.shields.io/badge/Live%20site-Visit-3b3fd8?style=for-the-badge)](https://YOUR-PROJECT.vercel.app)
+[![Live site](https://img.shields.io/badge/Live%20site-Visit-3b3fd8?style=for-the-badge)](https://nextgen-ai-website.vercel.app/)
 [![Project ID](https://img.shields.io/badge/Project-R26--DS--005-161a2e?style=for-the-badge)](#)
 [![Built with](https://img.shields.io/badge/Built%20with-HTML%20·%20CSS%20·%20JavaScript-0c8a6c?style=for-the-badge)](#tech-stack)
 
-**[🌐 Visit the website](https://YOUR-PROJECT.vercel.app)**
+**[🌐 Visit the website](https://nextgen-ai-website.vercel.app/)**
 
 </div>
 
@@ -33,10 +33,10 @@ Small businesses and new online sellers need marketing content every day, but mo
 
 | # | Component | Behavioural theory | Lead |
 |:-:|---|---|---|
-| 01 | **Dual-System Reasoning Agent**: decides whether a product is bought on impulse or after careful thought | Dual Process Theory | Buwaneka Fernando (IT22250438) |
-| 02 | **Emotion Propagation Agent**: writes copy that carries a target emotion and checks it with a classifier | Emotional Contagion | Savindi Pamodya (IT22132482) |
-| 03 | **Scarcity Optimization Agent**: adds believable urgency only where scarcity suits the product | Scarcity Principle | Buddima Senadeera (IT22640666) |
-| 04 | **Loss Framing Agent**: reframes messages around what the buyer may miss, with tone guardrails | Prospect Theory (Loss Aversion) | Praneepa Samaraweera (IT22544704) |
+| 01 | **Dual-System Reasoning Agent**: decides whether a product is bought on impulse or after careful thought | Dual Process Theory | Buwaneka Fernando<br><sub>fernandobuwaneka@gmail.com</sub> |
+| 02 | **Emotion Propagation Agent**: writes copy that carries a target emotion and checks it with a classifier | Emotional Contagion | Savindi Pamodya<br><sub>savindipamodya@gmail.com</sub> |
+| 03 | **Scarcity Optimization Agent**: adds believable urgency only where scarcity suits the product | Scarcity Principle | Buddima Senadeera<br><sub>Buddimasenadeera123@gmail.com</sub> |
+| 04 | **Loss Framing Agent**: reframes messages around what the buyer may miss, with tone guardrails | Prospect Theory (Loss Aversion) | Praneepa Samaraweera<br><sub>praneepasamaraweera1000@gmail.com</sub> |
 
 ### How the components work together
 
